@@ -1,6 +1,6 @@
 - I’m @xxaol
 - I’m interested in python, ruby, elixir, rust ...
-- I’m currently learning JS
+- I’m currently learning JS and Swift
 - Fun fact: my friends tell me i'm a discord moderator
 
 <!---
