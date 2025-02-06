@@ -1,7 +1,4 @@
-- I’m @xxaol
-- I’m interested in python, ruby, elixir, rust ...
-- I’m currently learning JS and Swift
-- Fun fact: my friends tell me i'm a discord moderator
+idc about this bro
 
 <!---
 xxaol/xxaol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
